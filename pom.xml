@@ -23,6 +23,7 @@
         <assertj.version>2.4.1</assertj.version>
         <mockito.version>1.10.19</mockito.version>
         <system-rules.version>1.16.0</system-rules.version>
+        <spring.version>4.2.2.RELEASE</spring.version>
 
         <maven-javadoc-plugin.version>2.10.4</maven-javadoc-plugin.version>
         <maven-site-plugin.version>3.4</maven-site-plugin.version>
@@ -45,6 +46,7 @@
         <module>easybatch-json</module>
         <module>easybatch-extensions</module>
         <module>easybatch-archetype</module>
+        <module>easybatch-test</module>
     </modules>
 
     <developers>
